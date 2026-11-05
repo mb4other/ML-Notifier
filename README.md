@@ -1,3 +1,5 @@
+# Privacy Policy
+
 **Last updated:** August 13, 2026
 
 This Privacy Policy describes how **ML-Notifier** ("the Bot", "we", "us") processes information when operating in Discord servers in which it has been authorized for use.
